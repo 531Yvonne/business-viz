@@ -1,4 +1,4 @@
-// Create this reusable component for flex layout
+// Create this reusable component for flex layout at navbar
 
 import { Box } from "@mui/material";
 import { styled } from "@mui/system";
