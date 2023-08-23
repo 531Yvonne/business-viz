@@ -1,9 +1,13 @@
 import DashboardBox from "@/components/DashboardBox";
+import { useGetKPIsQuery } from "@/state/api";
 import React from "react";
 
 type Props = {};
 
 const Row1 = (props: Props) => {
+  const { data } = useGetKPIsQuery();
+  console.log("data:", data);
+
   return (
     <>
       <DashboardBox gridArea="a"></DashboardBox>
