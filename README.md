@@ -10,8 +10,8 @@
 [![Watch the video](https://img.youtube.com/vi/mTe6FmaFXeo/0.jpg)](https://youtu.be/mTe6FmaFXeo)
 
 ## Snapshot
-![Dashboard Pic](./app_snapshots/dashboard.png)
-![Predictions Pic](./app_snapshots/Predictions.png)
+![Dashboard Pic](./app_snapshots/Dashboard.png)
+![Predictions Pic](./app_snapshots/Prediction.png)
 
 ## Live Deployment
 Download and run this application by running `npm run dev` in both server and client folder
