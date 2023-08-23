@@ -25,7 +25,7 @@ const Dashboard = () => {
             }
           : {
               // when smaller screens, only one long column
-              gridAutoColumns: "1fr",
+              gridTemplateColumns: "1fr",
               gridAutoRows: "80px",
               gridTemplateAreas: gridTemplateSmallScreens,
             }
