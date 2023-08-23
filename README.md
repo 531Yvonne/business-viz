@@ -7,7 +7,7 @@
 
 ## Video Demo
 
-[![Watch the video](https://img.youtube.com/vi/cUWDYIVEwNk/0.jpg)](https://youtu.be/cUWDYIVEwNk)
+[![Watch the video](https://img.youtube.com/vi/mTe6FmaFXeo/0.jpg)](https://youtu.be/mTe6FmaFXeo)
 
 ## Snapshot
 ![Dashboard](./app_snapshots/dashboard.png)
